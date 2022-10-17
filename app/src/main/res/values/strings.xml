@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Travel</string>
+
+    <string name="kalido">"KALIDO"</string>
+    <string name="Uncover_hidden_opportunities">"Uncover hidden opportunities"</string>
+    <string name="Discover_your_true_skills_ecosystem">"Discover your true skills ecosystem"</string>
+    <string name="Create_strong_engaged_teams">"Create strong, engaged teams"</string>
+    <string name="Increase_producivity_and_well_being">"Increase producivity and well being"</string>
+    <string name="Build_communities">"Build communities"</string>
+
+
+    <string name="des1">"The world's first and most robust, real-time, AI-powered matching platform for enterprises,communities and individuals"</string>
+    <string name="des2">"Smart AI matches you to the right people and oppo..."</string>
+    <string name="des3">"See the skills surrounding you today and the skills..."</string>
+    <string name="des4">"Collaborate faster,smarter and more flexibly on on..."</string>
+    <string name="des5">"Create a truly liquid,agile workforce"</string>
+    <string name="des6">"Match with people who share your passions, needs..."</string>
+
+</resources>
